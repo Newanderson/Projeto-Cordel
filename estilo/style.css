@@ -53,14 +53,15 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-size: 2vw;
+    font-size: 3vw;
 }
 section > p {
     padding: 2em;
+  
     
 }
 section.imagem > p {
-    width:px;
+    
     background-color: rgba(66, 64, 64, 0);
     padding: 10px;
     margin-left: 35px;
