@@ -61,7 +61,7 @@ section > p {
     
 }
 section.imagem > p {
-    
+    max-width: 200vw;
     background-color: rgba(66, 64, 64, 0);
     padding: 10px;
     margin-left: 35px;
